@@ -1,0 +1,28 @@
+.brands__logos a {
+    display: inline-block;
+    padding: 5px 0;
+}
+.brands__logos li {
+    font-size: 20px;
+    display: inline-block;
+    
+    padding: 5px 10px;
+}
+.brands__logos a path {
+    fill: hsla(0,0%,67%,.7);
+}
+.company{
+    display: flex;
+    margin: 0 180px ;
+}
+.company-text{
+    width: 33%;
+    color: #00b39b;
+    padding-right: 1em;
+    letter-spacing: .3px;
+    font-size: 25px;
+    padding-left: 15px;
+}
+li.hover{
+    color: #00ccb1;
+}

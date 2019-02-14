@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.statistic{
+    background: #d7f6f6;
+    overflow: hidden;
+    background-image:url(https://www.docplanner.com/img/logo.png);
+    background-repeat: no-repeat;
+    background-position: 7% 170%;
+    padding-top: 20px;
+
+    
+}
+.static-center{
+display: flex;
+margin: 0 180px;
+}
+.static-text{
+    width:50%;
+    padding-top: 40px;
+}
+.static-text h1 {
+    font-size: 2.125rem;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: .3px;;
+    color: #00b39b;
+    
+}
+.static-text p {
+    padding-top: 10px;
+
+    
+}
+.static-card{
+    width:50%;
+    display: flex;
+flex-wrap: wrap;
+}
+.stats__card {
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,.05);
+    height: 180px;
+    padding: 30px;
+    font-size: .8125em;
+    margin: 15px;
+    text-align: center;
+    width: 150px;
+}
+.static-card p {
+    text-align: center;
+}
+.card-column-one{
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+}
+.card-column-two{
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+}
+.card-pad{
+    padding-top: 40px;
+}
+.card-padddd{
+
+}
+.card-haut{
+
+}

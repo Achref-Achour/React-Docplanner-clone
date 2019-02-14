@@ -1,0 +1,26 @@
+a{
+    color: #ababab;
+    text-decoration: none;
+    padding:0 10px;
+
+}
+.active{
+    color :#00b39b;
+
+}
+.main-header{
+background-color: white;
+display: flex;
+justify-content: space-between;
+align-items: center;
+height: 65px;
+position: sticky;
+top: 0;
+padding: 0 150px;
+box-shadow: 0 0 15px rgba(0,0,0,.1);
+}
+
+.logo-docplanner {
+width: 268px;
+height: 33px;
+}
